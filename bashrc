@@ -12,7 +12,6 @@ conv () {
 
 # lines added by user
 alias c='clear'
-alias screenfetch='screenfetch -D arch'
 alias sf='screenfetch'
 echo -n Welcome, Quentin
 screenfetch 
